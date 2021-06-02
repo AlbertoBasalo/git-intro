@@ -2,4 +2,4 @@
 
 compartir cambios documentación y experiencias durante el curso
 
-Para Vitae por Alberto Basalo
+Para Vitae por Alberto Basalo desde Ourense
