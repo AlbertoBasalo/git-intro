@@ -12,7 +12,6 @@ Para Vitae por Alberto Basalo
 
 gloria
 diegogr
-diegogr
 
 javier Garcia Fernandez
 Linea de Abel
