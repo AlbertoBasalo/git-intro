@@ -4,9 +4,21 @@ compartir cambios documentación y experiencias durante el curso
 
 <<<<<<< HEAD
 Para Vitae por Alberto Basalo desde Ourense
-=======
+
 Modificado por JRomero
+Soy Alberto Basalo y estoy escribiendo en la línea 6
 
 Para Vitae por Alberto Basalo
+<<<<<<< HEAD
 diegogr
->>>>>>> 10858abd05903962288486f0b0e9abb3a2ae82f8
+
+javier Garcia Fernandez
+Linea de Abel
+
+
+Celia en Avilés
+
+Merge del averno
+diegogr
+Cambio cesarargul
+
