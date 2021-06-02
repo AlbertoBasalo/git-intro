@@ -2,6 +2,8 @@
 
 compartir cambios documentación y experiencias durante el curso
 
-Para Vitae por Alberto Basalo
+Modificado por JRomero
 
+Para Vitae por Alberto Basalo
 Merge del averno
+diegogr
