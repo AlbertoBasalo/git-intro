@@ -1,0 +1,26 @@
+{
+  "name": "compartido",
+  "version": "2.0.0",
+  "description": "Esto ya está casi listo",
+  "main": "gestion-de-trabajos.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labs-curso-git/compartido.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labs-curso-git/compartido/issues"
+  },
+  "homepage": "https://github.com/labs-curso-git/compartido#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.0"
+  }
+}
