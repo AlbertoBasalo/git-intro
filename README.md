@@ -1,5 +1,7 @@
 # Compartido para todos
 
+Esto ya está casi listo
+
 compartir cambios documentación y experiencias durante el curso
 
 Para Vitae por Alberto Basalo desde Ourense
