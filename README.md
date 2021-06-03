@@ -2,6 +2,9 @@
 
 compartir cambios documentación y experiencias durante el curso
 
+<<<<<<< HEAD
+Para Vitae por Alberto Basalo desde Ourense
+
 Modificado por JRomero
 Soy Alberto Basalo y estoy escribiendo en la línea 6
 
@@ -9,11 +12,18 @@ Para Vitae por Alberto Basalo
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Jose Castaño
 
 =======
 =======
+=======
+
+gloria
+diegogr
+
+>>>>>>> e9cfcc5f08080a764af5e66a3f557e1036093e24
 javier Garcia Fernandez
 >>>>>>> 2c29a43e09a51ba243571d9082d7709619c815da
 Linea de Abel
@@ -28,4 +38,9 @@ diegogr
 =======
 Cambio cesarargul
 >>>>>>> 2c29a43e09a51ba243571d9082d7709619c815da
+
+
+
+
+#Comentario de chus
 
