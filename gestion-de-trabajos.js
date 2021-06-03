@@ -1,1 +1,3 @@
-function saludos() {}
+function saludos() {
+  console.log("ok");
+}
