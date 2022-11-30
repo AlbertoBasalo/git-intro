@@ -39,7 +39,7 @@ git log --oneline
 
 # feature branch
 git branch
-git branch  feature/1-crear-index-html
+git branch feature/1-crear-index-html
 git status
 git branch
 git switch feature/1-crear-index-html
@@ -47,21 +47,4 @@ git switch feature/1-crear-index-html
 git add -A
 git commit -m "feat: crear index.html con título"
 git log --oneline
-git switch main
-git log --oneline
-git merge feature/1-crear-index-html
-git log --oneline
-# meter un cambio en el index.html
-git add -A
-git commit -m "docs: placeholder para la lista"
-git switch feature/1-crear-index-html
-# meter un cambio en el index.html
-git add -A
-git commit -m "feat: cabecera de listado"
-git switch main
-git merge feature/1-crear-index-html
-# Arreglar el conflicto eliminando el placeholder
-git add -A
-git commit -m "feat: eliminar placeholder"
-git branch -d feature/1-crear-index-html
 ```
